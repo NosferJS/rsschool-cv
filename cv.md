@@ -22,3 +22,39 @@ My hobbies are fishing and cycling.
 I study front-end in my spare time.
 
 ***
+## Education
+> P.O. Sukhoi GSTU  
+> - [Specialty: Heat power plants and heat supply systems](https://www.gstu.by/education/the-first-stage-of-higher-education/1-43-01-05)
+
+
+>Udemi (online academy)
+> - [Java](https://www.udemy.com/course/java-oca-oracle/)
+> - [JavaScript + React ](https://www.udemy.com/course/javascript_full/)(in progress...)
+> - [HTML, CSS & Git](https://www.udemy.com/course/webdeveloper/) (in progress...)
+
+***
+
+## Skills
++ HTML
++ JavaScript
++ Java *( basic knowledge )*
++ SQL
++ QA Manual *( basic knowledge )*
+***
+
+## Code examples
+```javascript
+module.exports = function reverse (n) {
+    
+    let k = Math.abs(n);
+    k = k + '';
+ 
+     return Number(k.split('').reverse().join(''));
+  
+}
+```
+
+***
+
+## English
+My English level is now - A1. 
